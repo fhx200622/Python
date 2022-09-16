@@ -26,7 +26,7 @@ language-selector==0.1
 LibAppArmor==2.10.95
 louis==2.6.4
 lxml==3.5.0
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==0.23
 notify2==0.3
 numpy==1.11.0
